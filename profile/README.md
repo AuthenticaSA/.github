@@ -13,7 +13,7 @@ REST/JSON APIs for secure verification and trusted messaging.
 <div align="center">
 
 <strong>🎁 100 FREE CREDITS</strong> &nbsp;•&nbsp; <strong>✉️ Email channel is FREE</strong>  
-<strong>👉 Create your account:</strong> <code>https://portal.authentica.sa/signUp</code>
+<strong>👉</strong> <a href="https://portal.authentica.sa/signUp"><strong>Create your account</strong></a>
 
 </div>
 
