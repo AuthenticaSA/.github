@@ -10,6 +10,13 @@ REST/JSON APIs for secure verification and trusted messaging.
 > **Get started free** — **100 free credits** on sign-up, and the **Email channel is free**.  
 > 👉 **Create your account:** https://portal.authentica.sa/signUp
 
+<div align="center">
+
+<strong>🎁 100 FREE CREDITS</strong> &nbsp;•&nbsp; <strong>✉️ Email channel is FREE</strong>  
+<strong>👉 Create your account:</strong> <code>https://portal.authentica.sa/signUp</code>
+
+</div>
+
 ## What we offer
 -  **OTP** via SMS / WhatsApp / Email  
 -  **Nafath** digital identity
