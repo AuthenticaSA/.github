@@ -1,11 +1,13 @@
 # Authentica — Simplified & Secure User Authentication
-
+<br/>
 <div align="center">
 
 <strong>🎁 100 FREE CREDITS</strong> &nbsp;•&nbsp; <strong>✉️ Email channel is FREE</strong>  
 <strong>👉</strong> <a href="https://portal.authentica.sa/signUp"><strong>Create your account</strong></a>
 
 </div>
+
+<br/>
 
 **Verify users. Reduce fraud.**  
 REST/JSON APIs for secure verification and trusted messaging.
