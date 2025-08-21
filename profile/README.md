@@ -2,6 +2,14 @@
 **Verify users. Reduce fraud.**  
 REST/JSON APIs for secure verification and trusted messaging.
 
+[![Sign Up](https://img.shields.io/badge/Sign%20Up-portal.authentica.sa-blue)](https://portal.authentica.sa/signUp)
+![100 Free Credits](https://img.shields.io/badge/100%20Free%20Credits-✔️-brightgreen)
+![Email Channel Free](https://img.shields.io/badge/Email%20channel-FREE-success)
+
+> [!IMPORTANT]
+> **Get started free** — **100 free credits** on sign-up, and the **Email channel is free**.  
+> 👉 **Create your account:** https://portal.authentica.sa/signUp
+
 ## What we offer
 -  **OTP** via SMS / WhatsApp / Email  
 -  **Nafath** digital identity
